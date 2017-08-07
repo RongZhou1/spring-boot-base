@@ -1,6 +1,6 @@
 package apitest;
 
-import com.student.Application;
+import com.Application;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
