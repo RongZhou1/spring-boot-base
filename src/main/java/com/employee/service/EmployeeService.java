@@ -7,7 +7,7 @@ import java.util.*;
 
 @Service
 public class EmployeeService {
-    private Map<Integer, Employee> employeesMap = new HashMap();
+    private Map<Integer, Employee> employeesMap = new HashMap<>();
 
     public EmployeeService() {
         Employee employee = new Employee();
